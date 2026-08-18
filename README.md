@@ -34,3 +34,8 @@ The steps I'm taking to do this are the following:
 5. Repackage it using appimagetool.
 6. Remove the squashfs-root folder from the extraction and rebuilding as cleanup.
 7. Upload it as a new release in this repo.
+
+## Useful Information
+
+[Project](https://github.com/users/melvinquick/projects/15)  
+[Latest Release](https://github.com/melvinquick/ente_ensu_appimage_fix/releases/latest)
