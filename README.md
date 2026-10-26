@@ -1,3 +1,5 @@
+> # THIS APPEARS TO HAVE BEEN UPSTREAM, SO THIS REPO WILL BE ARCHIVED.
+
 ## Copyright & License Notices
 
 Original Work: Copyright (C) Ente — https://github.com/ente/ente  
